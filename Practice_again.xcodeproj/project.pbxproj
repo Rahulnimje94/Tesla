@@ -16,7 +16,6 @@
 		173B19321FEAD40700809D54 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 173B19301FEAD40700809D54 /* LaunchScreen.storyboard */; };
 		173B193D1FEAD40700809D54 /* Practice_againTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 173B193C1FEAD40700809D54 /* Practice_againTests.swift */; };
 		173B19481FEAD40700809D54 /* Practice_againUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 173B19471FEAD40700809D54 /* Practice_againUITests.swift */; };
-		17416BCB1FEE573F0076AD6F /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 17416BCA1FEE573F0076AD6F /* README.md */; };
 		17F4BE9E1FEBEDC20076FE71 /* ResponsiveSizeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17F4BE9D1FEBEDC20076FE71 /* ResponsiveSizeViewController.swift */; };
 		17F4BEA01FEBEDEF0076FE71 /* ResponsiveCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17F4BE9F1FEBEDEF0076FE71 /* ResponsiveCollectionViewController.swift */; };
 		17F4BEA21FEBEE020076FE71 /* ResponsiveTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17F4BEA11FEBEE020076FE71 /* ResponsiveTableViewController.swift */; };
@@ -309,7 +308,6 @@
 			files = (
 				17F4BEA01FEBEDEF0076FE71 /* ResponsiveCollectionViewController.swift in Sources */,
 				17F4BEA21FEBEE020076FE71 /* ResponsiveTableViewController.swift in Sources */,
-				17416BCB1FEE573F0076AD6F /* README.md in Sources */,
 				17F4BEA71FEC16850076FE71 /* TeslaTableCell.swift in Sources */,
 				171027D51FECD6B20023F4A1 /* ShowFullImg.swift in Sources */,
 				17F4BE9E1FEBEDC20076FE71 /* ResponsiveSizeViewController.swift in Sources */,
