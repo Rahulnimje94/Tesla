@@ -89,12 +89,12 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		171027D61FECDBF80023F4A1 /* CoustomClassForTableSegue */ = {
+		171027D61FECDBF80023F4A1 /* CoustomClassForSegue */ = {
 			isa = PBXGroup;
 			children = (
 				171027D41FECD6B20023F4A1 /* ShowFullImg.swift */,
 			);
-			name = CoustomClassForTableSegue;
+			name = CoustomClassForSegue;
 			sourceTree = "<group>";
 		};
 		173B191B1FEAD40700809D54 = {
@@ -126,7 +126,7 @@
 				173B192B1FEAD40700809D54 /* Main.storyboard */,
 				17F4BEA31FEBEE0F0076FE71 /* ViewControllers */,
 				17F4BEA81FEC168A0076FE71 /* CellsClass */,
-				171027D61FECDBF80023F4A1 /* CoustomClassForTableSegue */,
+				171027D61FECDBF80023F4A1 /* CoustomClassForSegue */,
 				173B192E1FEAD40700809D54 /* Assets.xcassets */,
 				173B19301FEAD40700809D54 /* LaunchScreen.storyboard */,
 				173B19331FEAD40700809D54 /* Info.plist */,
